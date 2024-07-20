@@ -1,14 +1,14 @@
-*Name:* SUMIT TUDU
+**Name:** SUMIT TUDU
 
-*Company:* CODTECH IT SOLUTIONS
+**Company:** CODTECH IT SOLUTIONS
 
-*ID:* CT08DS3218
+**ID:** CT08DS3218
 
-*Domain:* C PROGRAMMING
+**Domain:** C PROGRAMMING
 
-*Duration:* June 25th, 2024 to July 25th 2024
+**Duration:** June 25th, 2024 to July 25th 2024
 
-*Mentor:* SRAVANI GOUNI
+**Mentor:** SRAVANI GOUNI
 
 
 ## OVERVIEW OF THE PROJECT
