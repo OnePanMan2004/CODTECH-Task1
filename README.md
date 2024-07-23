@@ -8,7 +8,7 @@
 
 **Duration:** June 25th, 2024 to July 25th 2024
 
-**Mentor:** SRAVANI GOUNI
+**Mentor:** N.Santhosh Kumar
 
 
 ## OVERVIEW OF THE PROJECT
